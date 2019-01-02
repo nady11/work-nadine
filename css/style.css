@@ -1,0 +1,75 @@
+.jumbotron{
+    background: url("../img/background.jpg");
+}
+.nav-link{
+    color:white;
+}
+.btn{
+    background:slategrey;
+}
+
+.row img{
+    width:300px;
+    height:350px;
+}
+.carousel-item img{
+    width:90%;
+    height:480px;
+}
+.address p{
+    margin-left:20px;
+}
+.below-link1{
+    padding:10px;
+    font-size:25px;
+}
+    
+.below-link2{
+    padding:10px;
+    color:lightblue;
+    font-size:25px;
+}
+
+.below-link3{
+    padding:10px;
+    color:red;
+    font-size:25px;
+}
+
+.below-link4{
+    padding:10px;
+    color:red;
+    font-size:25px;
+}
+
+.below-link5{
+    padding:10px;
+    font-size:25px;
+}
+.form-contact{
+    background:slategrey;
+    height: 400px;
+}
+
+.form-contact input{
+    margin-bottom:40px;
+    border: none;
+    border-bottom: 1px solid black;
+    background: transparent;
+}
+.form-contact textarea{
+    margin-bottom:40px;
+    border: none;
+    border-bottom: 1px solid black;
+}
+.form-contact input[type="submit"]
+{
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #fff;
+    background:black;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
